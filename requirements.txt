@@ -8,7 +8,7 @@ beautifulsoup4==4.6.3
 certifi==2018.10.15
 cffi==1.11.5
 chardet==3.0.4
-cryptography==2.3.1
+cryptography==3.2
 csvkit==1.0.3
 dbfread==2.0.7
 dj-database-url==0.5.0
