@@ -12,7 +12,7 @@ cryptography==2.3.1
 csvkit==1.0.3
 dbfread==2.0.7
 dj-database-url==0.5.0
-Django==2.0.9
+Django==2.2.24
 et-xmlfile==1.0.1
 future==0.16.0
 gunicorn==19.9.0
