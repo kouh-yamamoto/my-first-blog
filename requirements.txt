@@ -20,7 +20,7 @@ idna==2.7
 isodate==0.6.0
 jdcal==1.4
 leather==0.3.3
-mysql-connector-python==8.0.12
+mysql-connector-python==8.0.14
 openpyxl==2.5.9
 parsedatetime==2.4
 protobuf==3.6.1
